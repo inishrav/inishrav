@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA,FrontEnd,Selenium,Devops**
 
-- 🤝 I’m looking for help with **Selenium,WebDsigning**
+- 🤝 I’m looking for help with **Selenium,FrontEnd**
 
 - 💬 Ask me about **FrontEnd,Selenium**
 
